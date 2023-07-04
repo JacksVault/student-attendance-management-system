@@ -1,0 +1,3 @@
+https://www.sourcecodester.com/tags/two-factor-authentication-php-tutorial
+https://www.sourcecodester.com/php/14561/student-attendance-management-system-using-phpmysqli-source-code.html
+https://www.sourcecodester.com/php/14173/attendance-management-system.html
